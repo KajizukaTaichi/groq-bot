@@ -1,2 +1,2 @@
-# groq-bot
+# Groq Bot
 Discord bot binging of Groq
